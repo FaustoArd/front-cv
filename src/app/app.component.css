@@ -1,4 +1,5 @@
 img{
+  
     border-radius: 50%;
     width: 13rem;
     height: 13rem;
@@ -20,6 +21,12 @@ img{
     color: white;
     background-color: rgb(8, 8, 139);
 }
+#col-body{
+  
+   
+}
+
+
 h1{
     font-family: "Lato", sans-serif;
     font-weight: 400;
@@ -37,4 +44,30 @@ h3{
 
 h5{
     font-size: 0.8rem;
+}
+.h5{
+    font-size: 0.8rem;
+}
+#about-me{
+   
+    font-weight: bold;
+    font-size: 1.7rem;
+    color: rgb(8, 8, 139);
+    font-family: "Lato", sans-serif;
+}
+
+a:hover{
+    color: rgb(187, 201, 26);
+}
+.small{
+    width: 53rem;
+}
+#about-line{
+    border: 1px solid rgb(8, 8, 139);
+    margin-left: 2.9rem;
+    width: 52rem;
+}
+#contact-line{
+   
+    border: 0.12rem solid white;
 }
